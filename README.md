@@ -12,7 +12,7 @@ I’m currently learning | **WEB Development Full-Stack**
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tronghaieth&show_icons=true&theme=dark&locale=en" alt="xxxxx" /></p>
 <br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="xxxxx" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tronghaieth&theme=dark" alt="xxxxx" /></p>
 <br><br><br><br><br><br><br>
 <hr width="100%" >
 <h3 align="left">Connect with me:</h3>
